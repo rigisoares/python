@@ -1,0 +1,30 @@
+INFO:root:Inicio da execução ; 2024-09-02 21:35:05.063864
+INFO:root:Inicio da execução ; 2024-09-02 21:38:05.102689
+INFO:root:Inicio da execução ; 2024-09-02 21:40:12.535708
+INFO:root:Saneamento concluído; 2024-09-02 21:41:54.892850
+INFO:root:data_voo possui nulos dentro do esperado; 2024-09-02 21:41:54.926644
+INFO:root:datetime_partida possui nulos dentro do esperado; 2024-09-02 21:41:54.947694
+INFO:root:datetime_chegada possui nulos dentro do esperado; 2024-09-02 21:41:54.969639
+INFO:root:origem possui nulos dentro do esperado; 2024-09-02 21:41:54.985840
+INFO:root:destino possui nulos dentro do esperado; 2024-09-02 21:41:55.002574
+INFO:root:companhia possui nulos dentro do esperado; 2024-09-02 21:41:55.022492
+INFO:root:id_voo possui nulos dentro do esperado; 2024-09-02 21:41:55.039884
+INFO:root:id_aeronave possui nulos dentro do esperado; 2024-09-02 21:41:55.057524
+INFO:root:tempo_voo possui nulos dentro do esperado; 2024-09-02 21:41:55.060481
+INFO:root:distancia possui nulos dentro do esperado; 2024-09-02 21:41:55.062510
+INFO:root:Conexão com banco estabelecida ; 2024-09-02 21:41:55.121702
+INFO:root:Fim da execução ; 2024-09-02 21:41:55.124692
+INFO:root:Inicio da execução ; 2024-09-02 21:55:42.146538
+INFO:root:Saneamento concluído; 2024-09-02 21:56:49.498775
+INFO:root:data_voo possui nulos dentro do esperado; 2024-09-02 21:56:49.532640
+INFO:root:datetime_partida possui nulos dentro do esperado; 2024-09-02 21:56:49.546730
+INFO:root:datetime_chegada possui nulos dentro do esperado; 2024-09-02 21:56:49.564685
+INFO:root:origem possui nulos dentro do esperado; 2024-09-02 21:56:49.584632
+INFO:root:destino possui nulos dentro do esperado; 2024-09-02 21:56:49.602112
+INFO:root:companhia possui nulos dentro do esperado; 2024-09-02 21:56:49.617454
+INFO:root:id_voo possui nulos dentro do esperado; 2024-09-02 21:56:49.634131
+INFO:root:id_aeronave possui nulos dentro do esperado; 2024-09-02 21:56:49.654768
+INFO:root:tempo_voo possui nulos dentro do esperado; 2024-09-02 21:56:49.657837
+INFO:root:distancia possui nulos dentro do esperado; 2024-09-02 21:56:49.658834
+INFO:root:Conexão com banco estabelecida ; 2024-09-02 21:56:49.969864
+INFO:root:Fim da execução ; 2024-09-02 21:56:49.972868
